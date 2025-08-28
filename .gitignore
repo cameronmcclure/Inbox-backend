@@ -1,0 +1,16 @@
+# deps & builds
+node_modules/
+.next/
+out/
+dist/
+build/
+.cache/
+.vercel/
+# env & OS cruft
+.env
+.env.*
+.DS_Store
+# logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
